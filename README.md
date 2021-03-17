@@ -10,3 +10,9 @@
 //--------------------------------------------------------------------------------------------------------"<br />
 //--------------------------------------------------------------------------------------------------------"<br />
 </pre>
+
+
+
+<sub><a href="https://www.deviantart.com/starkevan/art/CS-GO-Terrorists-Logo-805803850">CS:GO - Terrorists Logo by StarkEvan</a></sub>
+<br />
+<sub><a href="https://www.vecteezy.com/free-vector/banana">Banana Vectors by Vecteezy</a></sub>
