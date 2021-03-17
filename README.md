@@ -13,5 +13,5 @@
 
 <p align="center">
 <sup><sub>Logo creation attributions:</sup></sub>
-<sup><sub><a href="https://www.deviantart.com/starkevan/art/CS-GO-Terrorists-Logo-805803850">CS:GO - Terrorists Logo by StarkEvan</a> & <a href="https://www.vecteezy.com/free-vector/banana">Banana Vectors by Vecteezy</a></sup></sub>
+<sup><sub><a href="https://www.deviantart.com/starkevan/art/CS-GO-Terrorists-Logo-805803850">CS:GO - Terrorists Logo by StarkEvan</a> & <a href="https://www.vecteezy.com/vector-art/159385-plantain-banana-vector-collection">Banana Vectors by monsterjoke at Vecteezy</a></sup></sub>
 </p>
