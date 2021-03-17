@@ -12,7 +12,7 @@
 </pre>
 
 
-
+<sup><sub>Logo creation attributions:</sup></sub>
 <sup><sub><a href="https://www.deviantart.com/starkevan/art/CS-GO-Terrorists-Logo-805803850">CS:GO - Terrorists Logo by StarkEvan</a></sup></sub>
 <br />
 <sup><sub><a href="https://www.vecteezy.com/free-vector/banana">Banana Vectors by Vecteezy</a></sup></sub>
