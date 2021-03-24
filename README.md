@@ -24,7 +24,7 @@
 ||-------------------------------------|| Second Update - v0.5 - 18th March 2021 ||---------------------------------------||<br />
 ||  After reeceiving various feeback and physically testing out the default main file myself, I found that some of my     ||<br />
 ||  coices were erroneous and a Reddit user that brought them to my attention was correct on a few accounts.              ||<br />
-||  The hints in CSGO are extremely obtrusive and irritating, so canges were implemented to make the defaults more sane   ||<br />
+||  The hints in CSGO are extremely obtrusive and irritating, so changes were implemented to make the defaults more sane  ||<br />
 ||  by disabling these hints by default, albeit at the cost of it being less helpful in game for newer players).          ||<br />
 ||------------------------------------------------------------------------------------------------------------------------||<br />
 ||--------------------------------------|| Third Update - v0.8 - 23rd March 2021 ||---------------------------------------||<br />
