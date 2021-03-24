@@ -29,7 +29,7 @@
 ||------------------------------------------------------------------------------------------------------------------------||<br />
 ||--------------------------------------|| Third Update - v0.8 - 23rd March 2021 ||---------------------------------------||<br />
 ||  Massive changes to the file overall, with several cleanup passes on the spelling and grammar as well as most of the   ||<br />
-||  layout style. Error checking, fact checking and some final sane defaults decided on as well as a new introduction.    ||<br />
+||  layout style. Error checking, fact checking and some final sane defaults decided on, as well as a new introduction.   ||<br />
 ||  Most importantly, I've added large new sections labelled "ADVANCED NOTE" in various areas that take the time to go    ||<br />
 ||  into greater deatil on the theory, science, maths and technology behind lots of the game/engine mechanics themselves. ||<br />
 ||------------------------------------------------------------------------------------------------------------------------||<br />
